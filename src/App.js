@@ -6,7 +6,10 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-      	<WorkItemButton />
+        <header className="app-header"
+        <div className="app-container">
+            <WorkItemButton className="app-work-item-button"/>
+        </div>
      </div>
     );
   }
