@@ -17,8 +17,8 @@ class App extends Component {
           <p>contact</p>
         </header>
         <div className="app-title">
-          <div className="app-title-main">Margaret E. Allstrom-Luttrell</div>
-          <small className="app-title-footer">Artist | Govorness</small>
+          <div className="app-title-main">Maelstrom Fine Arts</div>
+          <small className="app-title-footer">Artist | Teacher</small>
         </div> 
         <div className="app-content">
           <WorkItemButton className="app-content-work-item-button"/>
